@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-library",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maramgit/npm-test.git"
+    "url": "git+https://github.com/maramgit/npm-test-library.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maramgit/npm-test/issues"
+    "url": "https://github.com/maramgit/npm-test-library/issues"
   },
-  "homepage": "https://github.com/maramgit/npm-test#readme"
+  "homepage": "https://github.com/maramgit/npm-test-library#readme"
 }
